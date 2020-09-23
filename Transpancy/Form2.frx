@@ -1,0 +1,9 @@
+ÿGThis Project Show How To Use The Transparent Object Contirol in your programs,
+it's 100% Free , Dosen't Display any Message. so Powerful and Easy To Use
+(c) Marco Samy Nasif, 2002 .. Freeware. you can use,publish it as if you want
+
+This Control Can Trasparent Two Thing (Forms and Objects)
+The Way is to Fix a region by Loading a bitmap, after fixing the BitColor (The Color that will be transparent)
+in seconds the control will extract the Region
+apply this region Using "DoToObject" To a fixed Object
+after the region is not needed Call "DeleteRGN" to free up the memory 
